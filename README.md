@@ -17,4 +17,6 @@ Skills: ML / PYTHON / GRAPHIC DESIGN
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dracula)
 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
