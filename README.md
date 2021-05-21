@@ -15,7 +15,7 @@ Skills: ML / PYTHON / GRAPHIC DESIGN
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaks&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dracula)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
