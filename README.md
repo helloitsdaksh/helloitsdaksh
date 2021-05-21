@@ -9,7 +9,7 @@ Skills: ML / PYTHON / GRAPHIC DESIGN
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects based on Python
 - 📫 How to reach me:  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/helloitsdaksh/)  [<img src='https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67' alt='linkedin' height='40'>](https://www.linkedin.com/in/daksh-patel-3a67101a3?trk=people-guest_people_search-card//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/helloitsdaksh/)  [<img src='https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/daksh-patel-3a67101a3?trk=people-guest_people_search-card//)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
