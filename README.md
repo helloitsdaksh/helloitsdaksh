@@ -11,7 +11,7 @@ Skills: ML / PYTHON / GRAPHIC DESIGN
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/helloitsdaksh/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color=''blue>](https://www.linkedin.com/in/daksh-patel-3a67101a3?trk=people-guest_people_search-card//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='blue'>](https://www.linkedin.com/in/daksh-patel-3a67101a3?trk=people-guest_people_search-card//)  
 
 
 
