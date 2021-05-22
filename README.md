@@ -23,10 +23,11 @@ src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
 
 ### **My Coding Playist:**
-![](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
-<iframe src="https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[<img src='https://www.google.com/search?q=spotify+icon&client=ubuntu&hs=qjV&tbm=isch&source=iu&ictx=1&fir=I1wMAM-raUeIsM%252CTk0LMnGfg1i2uM%252C_&vet=1&usg=AI4_-kSCeE7NO9jL8NP75KaLFMMS9TR57w&sa=X&ved=2ahUKEwi9n4WYuN3wAhUF4zgGHfesDMYQ9QF6BAgTEAE#imgrc=I1wMAM-raUeIsM' alt='github' height='30'>](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
+
+<!-- <iframe src="https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/playlist/6Q3Qo3XxSj5Cu9pQJlBfzG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWYoYGBbGKurt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> 
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWYoYGBbGKurt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  -->
 
 ![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
