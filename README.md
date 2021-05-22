@@ -23,7 +23,7 @@ src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
 
 ### **My Coding Playist:**
-[<img src='https://img.icons8.com/cotton/2x/headphones.png' alt='CODING FOCUS' height='20'>](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG) 
+[<img src='https://img.icons8.com/cotton/2x/headphones.png' alt='CODING FOCUS' height='30'>](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG) 
 **CODING FOCUS**
 
 <!-- <iframe src="https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
