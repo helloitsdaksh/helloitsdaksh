@@ -23,10 +23,10 @@ src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
 
 ### **My Coding Playist:**
-<!-- ![](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
+![](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
 <iframe src="https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/playlist/6Q3Qo3XxSj5Cu9pQJlBfzG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWYoYGBbGKurt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> -->
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DWYoYGBbGKurt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> 
 
 ![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
