@@ -8,7 +8,7 @@ Programmer at Heart: Coding is my passion.
 src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'>
 <img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'>
 <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'>
-
+# **WHAT I DO**
 - 🔭 I’m currently working as Python Developer
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on projects based on Python
