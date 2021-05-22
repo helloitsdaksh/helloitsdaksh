@@ -23,13 +23,13 @@ src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
 
 ### **My Coding Playist:**
-<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='15'>[  CODING FOCUS](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
+<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='25'>[  CODING FOCUS](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
 
-<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='15'>[  LOFI CODING](https://open.spotify.com/embed/playlist/6Q3Qo3XxSj5Cu9pQJlBfzG)
+<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='25'>[  LOFI CODING](https://open.spotify.com/embed/playlist/6Q3Qo3XxSj5Cu9pQJlBfzG)
 
-<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='15'>[  CODING FOCUS](https://open.spotify.com/playlist/37i9dQZF1DWYoYGBbGKurt?si=b6c6ba986d3a41d6)
+<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='25'>[  CODING FOCUS](https://open.spotify.com/playlist/37i9dQZF1DWYoYGBbGKurt?si=b6c6ba986d3a41d6)
 
-<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='15'>[  CODING BEATS](https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR)
+<img src='https://img.icons8.com/doodle/2x/spotify.png' alt='CODING FOCUS' height='25'>[  CODING BEATS](https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR)
 
 
 ![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
