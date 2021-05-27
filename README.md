@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src='poster_0.jpg' />
+<img  src='poster_0.jpg' width="100%" data-canonical-src="poster_0.jpg" style="max-width:100%;/>
 </div>
 
 
@@ -59,3 +59,5 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 
 ![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
+<!-- 
+<img src="https://camo.githubusercontent.com/8abd66ab52ead534b74e994ca30f0fc4d12f92f3aec34ceee3ca0ce3c42ce08f/68747470733a2f2f692e696d6775722e636f6d2f3533364a4e64392e6a7067" width="100%" data-canonical-src="https://i.imgur.com/536JNd9.jpg" style="max-width:100%;"> -->
