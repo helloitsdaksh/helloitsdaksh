@@ -9,11 +9,11 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 ### **Skills**:
 <p>
-  <img src='https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667' alt='' height='50'>
-  <img src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'>
-  <img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'> 
-  <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height = '50'>
+  <img src='https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667' alt='' height='50'/>
+  <img src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'/>
+  <img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'/> 
+  <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height = '50'/>
  </p>
  
 ### **WHAT I DO**
@@ -38,8 +38,9 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 ### **My Github Stats**:
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula'/>
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dracula)
 </br>
