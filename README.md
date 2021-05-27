@@ -1,4 +1,4 @@
-  <img align="center" src='poster2.jpg' widht = '5%'/>
+  <img align="center" src='poster2.jpg' height = '50'/>
 
 
 # Hi there 👋, I am Daksh
