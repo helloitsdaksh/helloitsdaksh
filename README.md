@@ -1,4 +1,4 @@
-<img src='https://octodex.github.com/images/catstello.png' alt='' height='50'> 
+<img src='https://octodex.github.com/images/hula_loop_octodex03.gif' alt='' height='50'> 
 ## Hi there 👋, I am Daksh
 ### ML and Python Developer
 I am passionate about Machine Learning and would Like to learn and work on projects based on python.
