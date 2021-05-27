@@ -1,5 +1,5 @@
 <div align="center">
-<img  src='poster_0.jpg' width="100%" data-canonical-src="poster_0.jpg" style="max-width:100%;/>
+<img  src='poster_0.jpg' width="100%" data-canonical-src="poster_0.jpg" style="max-width:100%;"/>
 </div>
 
 
