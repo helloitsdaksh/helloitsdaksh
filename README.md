@@ -1,7 +1,9 @@
+<img src='https://octodex.github.com/images/catstello.png' alt='' height='50'> 
 ## Hi there 👋, I am Daksh
 ### ML and Python Developer
 I am passionate about Machine Learning and would Like to learn and work on projects based on python.
 Programmer at Heart: Coding is my passion. **CARPE DIEM**
+
 
 ### **Skills**:
 <img src='https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667' alt='' height='50'> <img src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'><img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'> <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'>
