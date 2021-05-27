@@ -1,5 +1,6 @@
-  <img align="center" src='poster_0.jpg' />
-
+ <p>
+ <img align="center" src='poster_0.jpg' />
+</p>
 
 # Hi there 👋, I am Daksh
 <p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/spidertocat.png"><img align="right" src="https://octodex.github.com/images/spidertocat.png" height = '400'></a></p>
