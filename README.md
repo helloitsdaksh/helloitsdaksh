@@ -1,4 +1,4 @@
-  <img align="center" src='poster1.jpg' />
+  <img align="center" src='poster.jpg' />
 
 
 # Hi there 👋, I am Daksh
