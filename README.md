@@ -1,4 +1,4 @@
-<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/grim-repo.jpg"><img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height = '500'></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/grim-repo.jpg"></a></p><img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height = '500'>
 
 ## Hi there 👋, I am Daksh
 ### ML and Python Developer
