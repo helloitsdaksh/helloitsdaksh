@@ -13,7 +13,7 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
   <img src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'>
   <img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'> 
   <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svjg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40px>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width=40px>
  </p>
 ### **WHAT I DO**
 - 🔭 I’m currently working as Python Developer
