@@ -1,5 +1,5 @@
 <div align="center">
-<img  src='banner.jpg' width="100%" data-canonical-src="banner.jpg" style="max-width:100%;"/>
+<img  src='banner-01.jpg' width="100%" data-canonical-src="banner-01.jpg" style="max-width:100%;"/>
 </div>
 
 # Hi there 👋, I am Daksh
