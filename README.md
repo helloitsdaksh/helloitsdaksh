@@ -1,4 +1,5 @@
-<img src='https://octodex.github.com/images/hula_loop_octodex03.gif' alt='' height='50'> 
+<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/hula_loop_octodex03.gif"><img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+
 ## Hi there 👋, I am Daksh
 ### ML and Python Developer
 I am passionate about Machine Learning and would Like to learn and work on projects based on python.
