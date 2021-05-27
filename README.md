@@ -1,5 +1,5 @@
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/spidertocat.png"><img align="right" src="https://octodex.github.com/images/spidertocat.png" height = '500'></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/spidertocat.png"><img align="right" src="https://octodex.github.com/images/spidertocat.png" height = '400'></a></p>
 
 ## Hi there 👋, I am Daksh
 ### ML and Python Developer
