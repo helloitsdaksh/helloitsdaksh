@@ -37,10 +37,15 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 </p>
 
 ### **My Github Stats**:
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dracula)
+</br>
+<br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dracula)  
+</br>
 
 
 ### **My Coding Playist:**
