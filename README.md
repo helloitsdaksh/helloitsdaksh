@@ -6,7 +6,9 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/spidertocat.png"><img align="right" src="https://octodex.github.com/images/spidertocat.png" height = '200'></a></p>
 
 ## ML and Python Developer
-I am passionate about Machine Learning and would Like to learn and work on projects based on python.
+I am Student at SRM Univerity pursuing Computer Science Engineering, I love to code and majorly in Python and 
+I am also passionate about Machine Learning and would Like to learn and work on projects based on Machine Learning or Deep Learning.
+Trying my best to fit in through my skills and my learnings. Always ready to face a Challenge....Try It!!!! 
 Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 
