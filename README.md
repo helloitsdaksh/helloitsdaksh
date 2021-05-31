@@ -21,7 +21,8 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
   <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height = '50'/>
   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png' height ='50'/>
- </p>
+<img src= 'https://git-scm.com/images/logos/logomark-orange@2x.png' height = '50'/>
+</p>
  
  ## **WHAT I DO**
 - 🔭 I’m currently working as Python Developer
