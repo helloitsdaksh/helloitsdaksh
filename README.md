@@ -44,7 +44,7 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
   </a>
 	<span>&nbsp;</span>
 	 <a href="https://www.kaggle.com/helloitsdaksh">
-    <img src="hhttps://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" height ='30'/>
+    <img src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" height ='30'/>
   </a>
 </p>
 
