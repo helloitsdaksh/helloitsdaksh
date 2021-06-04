@@ -63,5 +63,4 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 <img src='https://img.icons8.com/plasticine/2x/play.png' alt='CODING FOCUS' height='25'>[  CODING BEATS](https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR)
 
-
 ![Profile views](https://gpvc.arturio.dev/helloitsdaksh)  
