@@ -15,15 +15,8 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 ## **Skills**:
 
 <p>
-  <img src='https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667' alt='' height='50'/>
-  <img src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg' alt='' height='50'/>
-  <img src = 'https://symbols.getvecta.com/stencil_90/39_opencv-icon.bed55cce11.svg' height= '50'/> 
-  <img src = 'https://pandas.pydata.org/static/img/pandas_white.svg' height = '50'> <img src= 'https://cdn.worldvectorlogo.com/logos/docker.svg' height= '50'/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" height = '50'/>
-  <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png' height ='50'/>
-  <img src= 'https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png' height = '50'/>
-  <img src= 'https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png' height = '50'/>
-	
+* Computer skills: Python, Docker, AWS(ECS), Tensorflow, Numpy, Pandas, Sklearn, Streamlit, Matplotlib, Linux, Seaborn
+* Interests : Data Science, Machine Learning, Deep Learning, Image segmentation
 </p>
  
  ## **WHAT I DO**
@@ -55,14 +48,3 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula'/> -->
 <img src= 'https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dark'/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dark'/>
-
-## **My Coding Playist:**
-<img src='https://img.icons8.com/plasticine/2x/play.png' alt='CODING FOCUS' height='25'>[  CODING FOCUS](https://open.spotify.com/embed/playlist/15ngsvOmlTkARCg7ipoNvG)
-
-<img src='https://img.icons8.com/plasticine/2x/play.png' alt='CODING FOCUS' height='25'>[  LOFI CODING](https://open.spotify.com/embed/playlist/6Q3Qo3XxSj5Cu9pQJlBfzG)
-
-<img src='https://img.icons8.com/plasticine/2x/play.png' alt='CODING FOCUS' height='25'>[  CHILL INSTRUMENTAL BEATS](https://open.spotify.com/playlist/37i9dQZF1DWYoYGBbGKurt?si=b6c6ba986d3a41d6)
-
-<img src='https://img.icons8.com/plasticine/2x/play.png' alt='CODING FOCUS' height='25'>[  CODING BEATS](https://open.spotify.com/embed/playlist/1qvW13XhfMMZMlzQx362HR)
-
-
