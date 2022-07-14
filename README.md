@@ -3,7 +3,7 @@
 </div>
 
 # Hi there 👋, I am Daksh
-<p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/spidertocat.png"><img align="right" src="https://octodex.github.com/images/spidertocat.png" height = '200'></a></p>
+<p><iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY</a></p>
 
 ## ML and Python Developer
 I am Student at SRM Univerity pursuing Computer Science Engineering, I love to code and majorly in Python and 
