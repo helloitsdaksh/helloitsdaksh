@@ -14,11 +14,9 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 
 ## **Skills**:
 
-<p>
 * Computer skills: Python, Docker, AWS(ECS), Tensorflow, Numpy, Pandas, Sklearn, Streamlit, Matplotlib, Linux, Seaborn
 * Interests : Data Science, Machine Learning, Deep Learning, Image segmentation
-</p>
- 
+
  ## **WHAT I DO**
 - 🔭 I’m currently working as Python Developer
 - 🌱 I’m currently learning Machine Learning
