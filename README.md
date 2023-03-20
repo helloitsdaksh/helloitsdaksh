@@ -18,8 +18,8 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 * Interests : Data Science, Machine Learning, Deep Learning, Image segmentation
 
  ## **WHAT I DO**
-- 🔭 I’m currently working as Python Developer
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working as Python Developer 
+- 🌱 I’m currently learning Deep Learning and DSA
 - 👯 I’m looking to collaborate on projects based on Python
 - 📫 How to reach me:  
 
