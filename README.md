@@ -44,5 +44,5 @@ Programmer at Heart: Coding is my passion. **CARPE DIEM**
 ## **My Github Stats**:
 <!-- 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=helloitsdaksh&layout=compact&show_icons=true&theme=dracula'/> -->
-<img src= 'https://github-readme-stats.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dark'/>
+<img src= 'https://my-stats-rho.vercel.app/api?username=helloitsdaksh&show_icons=true&theme=dark'/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=helloitsdaksh&show_icons=true&theme=dark'/>
