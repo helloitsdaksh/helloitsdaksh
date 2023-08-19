@@ -6,10 +6,13 @@
 
 
 ## ML and Python Developer
-I am Student at SRM Univerity pursuing Computer Science Engineering, I love to code and majorly in Python and 
-I am also passionate about Machine Learning and would Like to learn and work on projects based on Machine Learning or Deep Learning.
-Trying my best to fit in through my skills and my learnings. Always ready to face a Challenge....Try It!!!! 
-Programmer at Heart: Coding is my passion. **CARPE DIEM**
+- Enthusiastic data science enthusiast currently pursuing a Master's in Applied Data Science at USC.
+- Accumulated over 2 years of hands-on experience in data science, with a focus on deep learning methodologies.
+- Proficient in implementing and fine-tuning deep learning models using frameworks like TensorFlow and PyTorch.
+- Actively engaged in coursework and projects that encompass various aspects of data analysis, predictive modeling, and machine learning.
+- Eager to leverage my academic journey and practical skills to address real-world challenges and drive data-driven solutions.
+- Committed to staying abreast of emerging trends in data science and deep learning to remain at the forefront of the field.
+- Seeking opportunities to collaborate, learn, and contribute to the vibrant data science community.
 
 
 ## **Skills**:
