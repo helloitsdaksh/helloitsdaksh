@@ -1,5 +1,5 @@
 <div align="center">
-<img  src='banner.jpeg' width="100%" data-canonical-src="banner.jpeg" style="max-width:100%;"/>
+<img  src='ian-schneider-TamMbr4okv4-unsplash.jpg' width="100%" data-canonical-src="ian-schneider-TamMbr4okv4-unsplash.jpg" style="max-width:100%;"/>
 </div>
 
 # Hi there 👋, I am Daksh
