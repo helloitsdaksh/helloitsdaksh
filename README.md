@@ -16,9 +16,10 @@
 
 
 ## **Skills**:
-
-* Computer skills: Python, Docker, AWS(ECS), Tensorflow, Numpy, Pandas, Sklearn, Streamlit, Matplotlib, Linux, Seaborn
-* Interests : Data Science, Machine Learning, Deep Learning, Image segmentation
+**Skills:** Python (Advanced), Tensorflow, Numpy, Pandas, OpenCV (Basic), Scikit-Learn, Matplotlib, Seaborn, Flask/Django
+**Databases:** PostgreSQL
+**Tools:** PyCharm, Postman, DataSpell, Docker, AWS, GitHub 
+**Operating System:** Linux, macOS, Windows
 
  ## **WHAT I DO**
 - 🔭 I’m currently working as Python Developer 
