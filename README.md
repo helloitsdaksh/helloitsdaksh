@@ -17,7 +17,7 @@
 
 ## **Skills**:
 * Skills: Python (Advanced), Tensorflow, Numpy, Pandas, OpenCV (Basic), Scikit-Learn, Matplotlib, Seaborn, Flask/Django.
-*Databases: PostgreSQL
+* Databases: PostgreSQL
 * Tools: PyCharm, Postman, DataSpell, Docker, AWS, GitHub 
 * Operating System: Linux, macOS, Windows
 
