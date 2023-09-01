@@ -5,7 +5,7 @@
 # Hi there 👋, I am Daksh
 
 
-## ML and Python Developer
+## About Me
 - Enthusiastic data science enthusiast currently pursuing a Master's in Applied Data Science at USC.
 - Accumulated over 2 years of hands-on experience in data science, with a focus on deep learning methodologies.
 - Proficient in implementing and fine-tuning deep learning models using frameworks like TensorFlow and PyTorch.
