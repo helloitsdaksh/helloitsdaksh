@@ -2,9 +2,7 @@
 <img  src='1.png' width="100%" data-canonical-src="1.png" style="max-width:100%;"/>
 </div>
 
-# Hi there 👋, I am Daksh
-
-
+# Hi there 👋
 ## About Me
 - Enthusiastic data science enthusiast currently pursuing a Master's in Applied Data Science at USC.
 - Accumulated over 2 years of hands-on experience in data science, with a focus on deep learning methodologies.
