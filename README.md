@@ -20,7 +20,7 @@
 * Operating System: Linux, macOS, Windows
 
  ## **WHAT I DO**
-- 🔭 I’m currently working as Python Developer 
+- 🔭 I’m currently working as Research Assistant at Keck School of Medicine USC. 
 - 🌱 I’m currently learning Deep Learning and DSA
 - 👯 I’m looking to collaborate on projects based on Python
 - 📫 How to reach me:  
